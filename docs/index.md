@@ -4,8 +4,6 @@ Welcome to the **Ding Ding Ding Regiment** wiki for *AOT:R* on Roblox.
 
 This space is built for individuals who want to rise to the top through their own effort. We’re not here to hold your hand or babysit you. The road to mastery is tough, but that’s the point. This wiki exists to provide the knowledge to help you improve and reach your peak.
 
-We are a community of self driven players, each pushing the limits of what we can achieve. Whether you’re a seasoned player or just starting out, if you’re willing to put in the work, you're welcome to hop aboard.
-
 ---
 
 ## 📌 What This Wiki Covers
