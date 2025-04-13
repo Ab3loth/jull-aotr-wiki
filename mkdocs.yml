@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Ding Ding Ding Wiki
+site_url: https://ab3loth.github.io/jull-aotr-wiki
+theme:
+  name: material
+  logo: assets/images/logo.png
+  palette:
+    primary: black
+    accent: indigo
+
+nav:
+  - Home: index.md
+  - Regiment: regiment.md

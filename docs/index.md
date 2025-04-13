@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+# ⚔️ AOT:R Regiment Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the **Ding Ding Ding Regiment** wiki for *AOT:R* on Roblox.
 
-## Commands
+This space is built for individuals who want to rise to the top through their own effort. We’re not here to hold your hand or babysit you. The road to mastery is tough, but that’s the point. This wiki exists to provide the knowledge to help you improve and reach your peak.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+We are a community of self driven players, each pushing the limits of what we can achieve. Whether you’re a seasoned player or just starting out, if you’re willing to put in the work, you're welcome to hop aboard.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 📌 What This Wiki Covers
+
+__Regiment__
+
+- 🛡️ **[Main Regiment](regiment.md#main-regiment)**  
+  For those who demand more from themselves. Set your own standards, prove your skills and challenge others. Entry requirements are relatively easy, if you fall short you're shit, get grinding.
+
+- 🎯 **[Junior Regiment](regiment.md#junior-regiment)**  
+  The **Junior Regiment** is a buffer for the main regiment for newcomers and noobs to chill or prepare for the the main regiment. There's no entry requirement, just a willingness to put in effort. We all start somewhere.
+
+
+- 🎖️ **Ranks** *(coming soon)*  
+  Information about ranks within the main regiment.
+
+__Information__
+
+- 📖 **Game Information** *(coming soon)*  
+  Learn techniques, skills, and information to improve your gameplay. Everything here is aimed at those willing to make the most of it.
+
+- 🏅 **Acheivements** *(coming soon)*  
+  Information on difficult non-ingame achievements awarded to players.
+
+---
+
+## 💬 Join the Regiment Discord
+
+This is where you’ll commune with us dumbasses. The community is here for support, challenges, and just a place to talk. Giveaways will also be hosted on the discord, those who are active in the main reg may receive unprompted rewards.
+
+[👉 Click here to join our Discord](https://discord.com/invite/UgHD58jAyF)
+
+---
+
+_The only way to the top is through hard work and self drive. If you can't even do that much, piss off._ 
