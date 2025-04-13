@@ -1,4 +1,4 @@
-# ⚔️ AOT:R Regiment
+# ⚔️ Regiment
 
 Welcome to the **Regiment** page! This is where you'll find details about both the **Main Regiment** and the **Junior Regiment**.
 

@@ -1,4 +1,4 @@
-# ⚔️ AOT:R Regiment Wiki
+# 📚 AOT:R Wiki
 
 Welcome to the **Ding Ding Ding Regiment** wiki for *AOT:R* on Roblox.
 
